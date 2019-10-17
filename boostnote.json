@@ -1,9 +1,24 @@
 {
   "folders": [
     {
-      "key": "0a5b884b9a6211f06898",
-      "color": "#E10051",
-      "name": "raw_boostnote"
+      "key": "8ceed30f33d1210e87bd",
+      "color": "#B013A4",
+      "name": "outline"
+    },
+    {
+      "key": "d479497987dceba891df",
+      "color": "#3FD941",
+      "name": "sweet_desserts"
+    },
+    {
+      "key": "1f1c59a904669f075a52",
+      "color": "#2BA5F7",
+      "name": "breads"
+    },
+    {
+      "key": "d24ae0d9c97cd719403d",
+      "color": "#3FD941",
+      "name": "salty_dishes"
     }
   ],
   "version": "1.0"

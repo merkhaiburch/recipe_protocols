@@ -1,7 +1,20 @@
-  "version": "1.0"
-    {
-    {
 {
   "folders": [
+    {
+      "key": "1f1c59a904669f075a52",
+      "color": "#E10051",
+      "name": "breads"
+    },
+    {
+      "key": "d479497987dceba891df",
+      "color": "#FF8E00",
+      "name": "sweets"
+    },
+    {
       "key": "8ceed30f33d1210e87bd",
-      "color": "#B013A4",
+      "color": "#E8D252",
+      "name": "format_template"
+    }
+  ],
+  "version": "1.0"
+}

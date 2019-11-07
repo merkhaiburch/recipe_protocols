@@ -1,5 +1,5 @@
 createdAt: "2019-10-17T17:57:09.255Z"
-updatedAt: "2019-11-05T14:06:14.661Z"
+updatedAt: "2019-11-07T13:11:48.891Z"
 type: "MARKDOWN_NOTE"
 folder: "8ceed30f33d1210e87bd"
 title: "Taken from"
@@ -10,19 +10,23 @@ content: '''
   Taken from
   
   
+  ---
   Specifications
   - Total time:  mins
   - Prep time:  mins
   - Bake time:  mins
   - Yield:
-  - Oven temp:
+  - Oven temp:  F
   
+  ---
   Ingredients
   
   
+  ---
   Directions
   
   
+  ---
   Notes/Comments/Suggestions
 '''
 linesHighlighted: []

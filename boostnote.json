@@ -14,6 +14,11 @@
       "key": "8ceed30f33d1210e87bd",
       "color": "#E8D252",
       "name": "format_template"
+    },
+    {
+      "key": "2aedad6f3d72b605e1ce",
+      "color": "#2BA5F7",
+      "name": "whole_meal_notes"
     }
   ],
   "version": "1.0"

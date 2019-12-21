@@ -1,0 +1,37 @@
+Oatmeal Cookies
+
+Taken from
+Quaker Oats Box
+
+---
+Specifications
+- Total time: 60 mins
+- Prep time: 25 mins
+- Bake time: 8-10 mins
+- Yield: a bunch of cookies
+- Oven temp: 350 F
+
+---
+Ingredients
+- 1/2 cup (1 stick) + 6 tbsp butter softened
+- 3/4 cup brown sugar
+- 1/2 cup white sugar
+- 2 eggs
+- 1 tsp vanilla
+- 1 1/2 cup flour
+- 1 tsp baking soda
+- 1 tsp cinnamon
+- 1/2 tsp salt
+- 3 cups Quaker Oats
+- 1 cup raisins
+
+---
+Directions
+- In bowl mix butter and sugar together until creamy
+- Add in eggs and vanilla, mix well
+- Add in flour, baking soda, cinnamon, and salt, mix well.
+- Add in oats and raisins, mix well
+- Bake until golden brown on an ungreased cookie sheet
+
+---
+Notes/Comments/Suggestions

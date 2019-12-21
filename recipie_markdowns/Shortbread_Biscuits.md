@@ -1,0 +1,32 @@
+Shortbread Biscuits (aka sugar cookies)
+
+Taken from
+Julia
+
+---
+Specifications
+- Total time:  mins
+- Prep time:  mins
+- Bake time:  mins
+- Yield:
+- Oven temp: 325 F
+
+---
+Ingredients
+- 2/3 cup softened butter
+- 1/3 heaping cup white sugar
+- 1 1/4 cup flour
+
+---
+Directions
+- Put butter and sugar in boul and mix
+- Sift in flour
+- Knead ingredients together for 5 minutes
+- Place mixture on a floured work surface and roll out dough with a sugared rolling pin.
+- Roll out to 1/8th of an inch
+- Use a cookie cutter to cut out cookies.
+- Use a spatula to transfer the cookies to a buttered cookie sheet
+- Bake until golden brown, or almost golden
+
+---
+Notes/Comments/Suggestions

@@ -1,19 +1,24 @@
 {
   "folders": [
     {
+      "key": "8ceed30f33d1210e87bd",
+      "color": "#E8D252",
+      "name": "format_template"
+    },
+    {
       "key": "1f1c59a904669f075a52",
       "color": "#E10051",
       "name": "breads"
     },
     {
+      "key": "6364bd6f3db11cd0704e",
+      "color": "#30D5C8",
+      "name": "meals"
+    },
+    {
       "key": "d479497987dceba891df",
       "color": "#FF8E00",
       "name": "sweets"
-    },
-    {
-      "key": "8ceed30f33d1210e87bd",
-      "color": "#E8D252",
-      "name": "format_template"
     },
     {
       "key": "2aedad6f3d72b605e1ce",

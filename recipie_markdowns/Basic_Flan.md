@@ -1,10 +1,10 @@
-Basic Flan
+# Basic Flan
 
 Taken from
 [El Boricua, a bilingual , cultural publication for Puerto Ricans](http://www.elboricua.com/flan.html)
 
 ---
-Specifications
+## Specifications
 - Total time: 2 hrs
 - Prep time: 20 mins
 - Bake time: 1-1.5 hrs
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 350 F
 
 ---
-Ingredients
+## Ingredients
 - 1 cup sugar
 - 6 large eggs
 - 1 14 oz can sweetened condensed milk
@@ -20,7 +20,7 @@ Ingredients
 - 1 tbsp vanilla
 
 ---
-Directions
+## Directions
 - Preheat oven to 350°.
 - Prepare bain-Marie and caramelize the mold as per instructions at the bottom of this page.
 - Mix eggs with an electric mixer. Add the rest of the ingredients.

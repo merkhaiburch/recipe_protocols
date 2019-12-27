@@ -1,10 +1,10 @@
-Marbled Tahini Cookies
+# Marbled Tahini Cookies
 
 Taken from
 SUSAN SPUNGEN: [Marbled Tahini Cookies Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1020650-marbled-tahini-cookies)
 
 ---
-Specifications
+## Specifications
 - Total time: 60 mins
 - Prep time: 120 mins
 - Bake time: 13-15 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 325 F
 
 ---
-Ingredients
+## Ingredients
 - 3 cups/385 grams all-purpose flour, plus more for dusting
 - 1 ½ teaspoons kosher salt
 - ½ teaspoon baking powder
@@ -26,7 +26,7 @@ Ingredients
 - ¼ cup/50 grams coarse black sanding sugar (optional)
 
 ---
-Directions
+## Directions
 
 - In a medium bowl, whisk to combine 3 cups flour, the salt and baking powder; set aside. Coat a small loaf pan with cooking spray, then line with plastic wrap, tucking it into the corners and leaving plenty of overhang. Set aside.
 - In the bowl of a stand mixer fitted with the paddle attachment, cream together butter and confectioners’ sugar on medium-high speed until fluffy, 2 to 3 minutes, scraping bowl as needed. Add the large egg and the vanilla; beat on medium-high until combined, about 2 minutes, scraping the bowl as needed.
@@ -40,3 +40,8 @@ Directions
 
 ---
 Notes/Comments/Suggestions
+
+- More sugar? Cookies were not sweet,  slightly tahini flavored. Maybe add more sugar next time
+- Could not find black tahini, used black food coloring
+- Cut cookies into more square shapes
+- Knead dough less, four-5 kneads per half-dough was too much.

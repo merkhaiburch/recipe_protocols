@@ -1,17 +1,17 @@
 createdAt: "2019-11-05T13:59:42.080Z"
-updatedAt: "2019-11-05T14:13:17.058Z"
+updatedAt: "2019-12-27T21:10:42.412Z"
 type: "MARKDOWN_NOTE"
 folder: "d479497987dceba891df"
 title: "Shortbread Biscuits (aka sugar cookies)"
 tags: []
 content: '''
-  Shortbread Biscuits (aka sugar cookies)
+  # Shortbread Biscuits (aka sugar cookies)
   
   Taken from
   Julia
   
   ---
-  Specifications
+  ## Specifications
   - Total time:  mins
   - Prep time:  mins
   - Bake time:  mins
@@ -19,13 +19,13 @@ content: '''
   - Oven temp: 325 F
   
   ---
-  Ingredients
+  ## Ingredients
   - 2/3 cup softened butter
   - 1/3 heaping cup white sugar
   - 1 1/4 cup flour
   
   ---
-  Directions
+  ## Directions
   - Put butter and sugar in boul and mix
   - Sift in flour
   - Knead ingredients together for 5 minutes

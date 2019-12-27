@@ -1,10 +1,10 @@
-Oatmeal Cookies
+# Oatmeal Cookies
 
 Taken from
 Quaker Oats Box
 
 ---
-Specifications
+## Specifications
 - Total time: 60 mins
 - Prep time: 25 mins
 - Bake time: 8-10 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 350 F
 
 ---
-Ingredients
+## Ingredients
 - 1/2 cup (1 stick) + 6 tbsp butter softened
 - 3/4 cup brown sugar
 - 1/2 cup white sugar
@@ -26,7 +26,7 @@ Ingredients
 - 1 cup raisins
 
 ---
-Directions
+## Directions
 - In bowl mix butter and sugar together until creamy
 - Add in eggs and vanilla, mix well
 - Add in flour, baking soda, cinnamon, and salt, mix well.

@@ -1,17 +1,17 @@
 createdAt: "2019-11-07T13:10:24.393Z"
-updatedAt: "2019-11-07T13:22:01.524Z"
+updatedAt: "2019-12-27T21:10:03.825Z"
 type: "MARKDOWN_NOTE"
 folder: "d479497987dceba891df"
 title: "Julia's Plain Scones"
 tags: []
 content: '''
-  Julia's Plain Scones
+  # Julia's Plain Scones
   
   Taken from
   Julia
   
   ---
-  Specifications
+  ## Specifications
   - Total time: 40 mins
   - Prep time: 25 mins
   - Bake time: 12-15 mins
@@ -19,7 +19,7 @@ content: '''
   - Oven temp: 350 F
   
   ---
-  Ingredients
+  ## Ingredients
   - 2 cups self rising flour
   - 1/4 cup butter
   - 1 1/2 tbsp sugar
@@ -27,7 +27,7 @@ content: '''
   - 2/3 cup milk
   
   ---
-  Directions
+  ## Directions
   - Put flour and butter in bowl and rapidly mix the two together like showing the money symbol in the fingers, sprinkle the mixture until the consistency of corn meal
   - Mix in the sugar and salt (if wanted, add raisins now)
   - Add milk in small amounts 

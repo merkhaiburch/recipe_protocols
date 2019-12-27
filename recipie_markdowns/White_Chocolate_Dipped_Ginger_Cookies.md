@@ -1,10 +1,10 @@
-White Chocolate Dipped Ginger Cookies
+# White Chocolate Dipped Ginger Cookies
 
 Taken from
 [White Chocolate Dipped Ginger Cookies - Cooking Classy](https://www.cookingclassy.com/white-chocolate-dipped-ginger-cookies/)
 
 ---
-Specifications
+## Specifications
 - Total time: 30 mins
 - Prep time: 10 mins
 - Bake time: 20 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 350 F
 
 ---
-Ingredients
+## Ingredients
 
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
@@ -32,7 +32,7 @@ Ingredients
 - Red and green candy melts (or tinted royal icing)*
 
 ---
-Directions
+## Directions
 
 - In a mixing bowl whisk together flour, baking soda, salt, ginger, cinnamon, cloves and nutmeg for 20 seconds, set aside.
 - In the bowl of an electric stand mixer fitted with the paddle attachment, cream together butter, 1/2 cup granulated sugar and brown sugar until well blended.
@@ -50,3 +50,5 @@ Decoration
 
 ---
 Notes/Comments/Suggestions
+
+- Make half this amount of dough next time. Too many leftovers. Pawn cookies off on Lynn.

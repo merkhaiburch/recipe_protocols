@@ -1,10 +1,10 @@
-Macaroon Cookies
+# Macaroon Cookies
 
 Taken from
 Mound's shredded coconut package
 
 ---
-Specifications
+## Specifications
 - Total time: 120 mins
 - Prep time: 25 mins
 - Bake time: 10-12 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 350 F
 
 ---
-Ingredients
+## Ingredients
 - 1/3 cup softened butter
 - 1 package (3 oz.) cream cheese softened
 - 3/4 cup white sugar
@@ -25,7 +25,7 @@ Ingredients
 - 3 3/4 cups coconut flakes
 
 ---
-Directions
+## Directions
 - Beat butter, cream cheese, and sugar in large bowl until blended.
 - Add egg yolk, orange juice, and almond extract
 - In another bowl stir together flour, baking powder, and salt

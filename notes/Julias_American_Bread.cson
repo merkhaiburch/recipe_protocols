@@ -1,17 +1,17 @@
 createdAt: "2019-11-07T13:20:06.342Z"
-updatedAt: "2019-11-07T13:26:43.655Z"
+updatedAt: "2019-12-27T21:09:51.205Z"
 type: "MARKDOWN_NOTE"
 folder: "1f1c59a904669f075a52"
 title: "Julia's American Bread"
 tags: []
 content: '''
-  Julia's American Bread
+  # Julia's American Bread
   
   Taken from
   Julia
   
   ---
-  Specifications
+  ## Specifications
   - Total time: 150 mins
   - Prep time: 120 mins
   - Bake time: 30 mins
@@ -19,7 +19,7 @@ content: '''
   - Oven temp: 350 F
   
   ---
-  Ingredients
+  ## Ingredients
   - 2 1/4 cup unbleached white flour
   - 1 1/2 cup whole wheat flour
   - 1 tsp salt
@@ -27,7 +27,7 @@ content: '''
   - 1 1/2 cup milk (half milk, half water?)
   
   ---
-  Directions
+  ## Directions
   - Sift flour into large bread bowl
   - Add salt and mix
   - In a different bowl, add water and yeast and let sit for 10 minutes.

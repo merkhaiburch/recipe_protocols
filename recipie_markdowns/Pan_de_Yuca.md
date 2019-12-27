@@ -1,17 +1,17 @@
-Pan de Yuca
+# Pan de Yuca
 
 Taken from
 - Katherine
 
 ---
-Specifications
+## Specifications
 - Total time:  mins
 - Prep time:  mins
 - Yield: 30 rolls
 - Oven temp: 400 F
 
 ---
-Ingredients
+## Ingredients
 - 2 ½ cups yuca or cassava starch - sometimes also called yuca flour or tapioca starch/flour
 - 4 cups grated mozzarella cheese (can also use half mozzarella & half queso fresco, cotija or quesillo)
 - 1 tsp baking powder
@@ -21,7 +21,7 @@ Ingredients
 - 2-4 tablespoons of water (or milk), add more if the dough is dry
 
 ---
-Directions
+## Directions
 - Combine the yuca starch or flour, cheese, baking powder and salt in a food processor, blend to mix well.
 - Add the butter and eggs.
 - Mix until small dough balls begin to form, if it's too dry add 1-2 tablespoons of water or milk. Add more if needed.

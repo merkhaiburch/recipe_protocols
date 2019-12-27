@@ -1,17 +1,17 @@
 createdAt: "2019-12-16T16:42:59.401Z"
-updatedAt: "2019-12-16T16:46:55.235Z"
+updatedAt: "2019-12-27T21:06:35.848Z"
 type: "MARKDOWN_NOTE"
 folder: "d479497987dceba891df"
 title: "Homemade Pocky"
 tags: []
 content: '''
-  Homemade Pocky
+  # Homemade Pocky
   
   Taken from
   SUSAN SPUNGEN [Homemade Pocky Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1020657-homemade-pocky)
   
   ---
-  Specifications
+  ## Specifications
   - Total time: 1-4 hours
   - Prep time: 60 mins
   - Bake time: 14-16 mins
@@ -19,7 +19,7 @@ content: '''
   - Oven temp: 350 F
   
   ---
-  Ingredients
+  ## Ingredients
   
   FOR THE DOUGH:
   - 1 ¼ cups/160 grams all-purpose flour, plus more for dusting
@@ -40,7 +40,7 @@ content: '''
   - 3 tablespoons chopped nuts
   
   ---
-  Directions
+  ## Directions
   
   PREPARATION
   - Prepare the dough: Add 1 1/4 cups flour, the sugar, baking powder and salt to a food processor, and pulse a few times to combine. Add butter and pulse until small crumbs form. In a measuring cup, combine milk and vanilla. Stream into flour mixture while machine is running. Pulse until dough is fairly smooth.
@@ -55,6 +55,9 @@ content: '''
   
   ---
   Notes/Comments/Suggestions
+  
+  - Dough was delicious but after rolling, shapes still were square-like. Might just have rectangle Pocky rolled with a rolling pin to save time. 
+  - Freeze dried strawberry, crushed almonds, and crushed oreos were amazing toppings.
 '''
 linesHighlighted: []
 isStarred: false

@@ -1,24 +1,24 @@
 createdAt: "2019-11-05T14:03:49.833Z"
-updatedAt: "2019-11-05T14:12:59.647Z"
+updatedAt: "2019-12-27T21:10:20.089Z"
 type: "MARKDOWN_NOTE"
 folder: "d479497987dceba891df"
 title: "Cheryl's Chocolate Cake and Chocolate Frosting"
 tags: []
 content: '''
-  Cheryl's Chocolate Cake and Chocolate Frosting
+  # Cheryl's Chocolate Cake and Chocolate Frosting
   
   Taken from
   Cheryl McCormac Baker (SV Carabee)
   
   ---
-  Specifications
+  ## Specifications
   - Total time: 50 mins
   - Prep time: 20 mins
   - Bake time: 25-30 mins
   - Yield: a whole cake?
   - Oven temp: 350 F
   ---
-  Ingredients
+  ## Ingredients
   
   Chocolate Cake
   - 1 1/2 cup flour
@@ -38,7 +38,7 @@ content: '''
   - 2 tbsp dry powdered milk
   - 4 tbsp black coffee
   ---
-  Directions
+  ## Directions
   
   Chocolate Cake
   - Mix all dry ingredients together
@@ -53,6 +53,8 @@ content: '''
   ---
   Notes/Comments/Suggestions
 '''
-linesHighlighted: []
+linesHighlighted: [
+  33
+]
 isStarred: false
 isTrashed: false

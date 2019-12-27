@@ -1,10 +1,10 @@
-Linzer Cookies
+# Linzer Cookies
 
 Taken from
 [Linzer Cookies \| King Arthur Flour](https://www.kingarthurflour.com/recipes/linzer-cookies-recipe)
 
 ---
-Specifications
+## Specifications
 - Total time: 2 hrs 35 mins
 - Prep time: 25 mins
 - Bake time: 8-10 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 350 F
 
 ---
-Ingredients
+## Ingredients
 
 - 3/4 cup (170g) unsalted butter
 - 1/2 cup (99g) sugar
@@ -26,7 +26,7 @@ Ingredients
 - confectioners' sugar or glazing sugar, for dusting
 
 ---
-Directions
+## Directions
 
 - To make the dough: Beat the butter, sugar, and zest until light and fluffy, scraping the bowl as needed, about 3 minutes. Add the yolk and vanilla and beat until combined.
 - Meanwhile, whisk together the flour, almond flour, and salt. Add the flour mixture to the egg mixture and mix until just combined. Don't over-beat.
@@ -39,3 +39,5 @@ Directions
 
 ---
 Notes/Comments/Suggestions
+
+- Turned out great. Used seedless Smuckers raspberry jam.

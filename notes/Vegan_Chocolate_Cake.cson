@@ -1,24 +1,24 @@
 createdAt: "2019-10-17T18:03:26.466Z"
-updatedAt: "2019-11-05T14:13:50.756Z"
+updatedAt: "2019-12-27T21:11:12.045Z"
 type: "MARKDOWN_NOTE"
 folder: "d479497987dceba891df"
 title: "Vegan Chocolate Cake"
 tags: []
 content: '''
-  Vegan Chocolate Cake
+  # Vegan Chocolate Cake
   
   Taken from
   [The Best Vegan Chocolate Cake - Nora Cooks](https://www.noracooks.com/vegan-chocolate-cake/)
   
   ---
-  Specifications
+  ## Specifications
   - Total time: 55 mins
   - Prep time: 20 mins
   - Yield: 16 servings/24 cupcakes
   - Oven temp: 350 F
   
   ---
-  Ingredients
+  ## Ingredients
   
   Chocolate Cake
   - 1 cup unsweetened almond milk
@@ -42,7 +42,7 @@ content: '''
   - 1/4-1/2 cup unsweetened almond milk
   
   ---
-  Directions
+  ## Directions
   
   For the Chocolate Cake
   - Preheat oven to 350 degrees F and grease two 9-inch cake pans. I also line them with parchment rounds and lightly flour for easy removal of the cakes later.

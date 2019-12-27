@@ -1,10 +1,10 @@
-Chocolate Chip Cookies
+# Chocolate Chip Cookies
 
 Taken from
 Arm and Hammer's Box
 
 ---
-Specifications
+## Specifications
 - Total time: 60 mins
 - Prep time: 20 mins
 - Bake time: 7-9 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 375 F
 
 ---
-Ingredients
+## Ingredients
 - 2 1/4 cup flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -24,7 +24,7 @@ Ingredients
 - 2 cups chocolate chips
 
 ---
-Directions
+## Directions
 - In bowl mix flour, baking soda, and salt
 - In another bowl mix butter, sugar, and vanilla
 - Mix in eggs to wet mixture

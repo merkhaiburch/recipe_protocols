@@ -1,10 +1,10 @@
-Beef and Cheese Enchiladas 
+# Beef and Cheese Enchiladas 
 
 Taken from
 [Simply Mama Cooks](https://www.youtube.com/watch?v=CjoVxMSdfKg&t=458s)
 
 ---
-Specifications
+## Specifications
 - Total time: 120 mins
 - Prep time: 35 mins
 - Bake time: 35 mins
@@ -12,7 +12,7 @@ Specifications
 - Oven temp: 375 F
 
 ---
-Ingredients
+## Ingredients
 
 - 1 lb ground beef (I used 97/3 lean to fat ratio)
 - 1/4 cup diced onions 
@@ -37,7 +37,7 @@ ENCHILADA RED SAUCE INGREDIENTS
 **You can substitute the bouillon cube and water with 2 cups of chicken stock or broth
 
 ---
-Directions
+## Directions
 
 - Cook beef
 - Add in onions, jalapenos, garlic, and seasoning

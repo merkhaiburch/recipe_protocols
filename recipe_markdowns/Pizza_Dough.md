@@ -40,10 +40,10 @@ Notes/Comments/Suggestions
 - Try to use a seasoned pan
 - This recipe is based on baker percentages see example output below:
 
-|Ingredient | Pie (14 in.) (g)|
-|:----------|----------------:|
-|AP Flour   |              400|
-|Salt       |                8|
-|Yeast      |                4|
-|Olive oil  |               12|
-|Water      |              280|
+|Ingredient | 12 in. pie (g)| 14 in. pie (g)| 16 in. pie (g)|
+|:----------|--------------:|--------------:|--------------:|
+|AP Flour   |          340.0|            400|          457.1|
+|Salt       |            6.8|              8|            9.1|
+|Yeast      |            3.4|              4|            4.6|
+|Olive oil  |           10.2|             12|           13.7|
+|Water      |          238.0|            280|          320.0||

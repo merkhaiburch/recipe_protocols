@@ -14,6 +14,7 @@ Taken from
 ---
 ## Ingredients
 
+Full Recipe
 - 2 cups sugar
 - 1/2 cup milk
 - 1 stick (8 tablespoons) unsalted butter
@@ -21,6 +22,16 @@ Taken from
 - 3 cups old-fashioned rolled oats
 - 1 cup smooth peanut butter
 - 1 tablespoon pure vanilla extract
+- Large pinch kosher salt
+
+Half Recipe
+- 1 cups sugar
+- 1/4 cup milk
+- 1/2 stick (4 tablespoons) unsalted butter
+- 1/8 cup unsweetened cocoa powder or flour
+- 1 1/2 cups old-fashioned rolled oats
+- 1/2 cup smooth peanut butter
+- 1/2 tablespoon pure vanilla extract
 - Large pinch kosher salt
 
 ---

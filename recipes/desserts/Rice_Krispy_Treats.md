@@ -23,6 +23,14 @@ Full recipie
 - 6 cups Kellogg's® Rice Krispies® cereal
 
 
+### Amazing chocolate version
+- 1.5 tablespoons butter
+- 1/2 package 10 oz. Marshmallows
+- 3 cups Kellogg's® Rice Krispies® cereal
+- 1.5 tbsp cocoa powder
+- 1/3 cup chocolate chips
+
+
 ### Peanut Butter Version
 
 Full recipie 
@@ -41,7 +49,7 @@ Half Recipie
 ---
 ## Directions
 
-- In large saucepan melt butter over low heat. Add marshmallows and stir until completely melted. Remove from heat. (Stir in peanut butter until melted if doing peanut butter version)
+- In large saucepan melt butter over low heat. Add marshmallows and stir until completely melted. Remove from heat. (Stir in peanut butter until melted if doing peanut butter version OR stir in cocoa powder if doing chocolate version. Once cocoa is completely mixed, turn off heat, add chocolate chips quickly, and then cereal to minimize melting)
 - Add KELLOGG'S RICE KRISPIES cereal. Stir until well coated.
 - Using buttered spatula or wax paper evenly press mixture into 13 x 9 x 2-inch pan coated with cooking spray. Cool. Cut into 2-inch squares. Best if served the same day.
 

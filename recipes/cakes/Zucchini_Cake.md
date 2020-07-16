@@ -1,0 +1,36 @@
+# Zucchini Cake
+
+Taken from
+Merritt's Cookbook
+
+---
+## Specifications
+- Total time: unknown mins
+- Prep time: 20 mins
+- Bake time: unknown mins
+- Yield: 1 cake
+- Oven temp: 325 F
+
+---
+## Ingredients
+
+- 3 cups flour
+- 1 tsp salt
+- 1 tsp baking soda
+- 2 tsp cinnamon
+- 1/2 tsp baking powder
+- 1/2 tsp arrowroot (optional)
+- 1 cup mashed banana
+- 1 cup white sugar
+- 1 cup brown sugar
+- 3/4 cup vegetable oil
+- 2 tsp vanilla
+- 2 1/2 cup zucchini
+
+---
+## Directions
+
+- Mix all ingredients together and bake on a greased cake or muffin pan. 
+
+---
+Notes/Comments/Suggestions

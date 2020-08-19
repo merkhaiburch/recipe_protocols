@@ -1,0 +1,53 @@
+# New York Style Crumb Cake
+
+Taken from
+Merritt's Cookbook
+
+---
+## Specifications
+- Total time:  mins
+- Prep time:  mins
+- Bake time:  mins
+- Yield: unknown
+- Oven temp: 325 F
+
+---
+## Ingredients
+
+For crumb topping
+- 1/3 cup white sugar
+- 1/3 cup dark brown sugar
+- 3/4 tsp cinnamon
+- 1/8 tsp salt
+- 8 tbsp unsalted butter (melted)
+- 1 3/4 cup cake flour
+
+For the cake
+- 1 1/4 cup cake flour
+- 1/2 cup white sugar
+- 1/4 tsp baking soda
+- 1/4 tsp salt
+- 6 tbsp butter (cut into 6 pieces and softened)
+- 1 egg
+- 1 egg yolk
+- 1/2 tsp vanilla
+- 1/3 cup buttermilk
+
+---
+## Directions
+
+For topping
+- Whisk sugars, cinnamon, salt, and butter into a bowl.
+- Mix in flour and stir until mixture resembles a thick, cohesive dough and set aside.
+
+For cake
+- Mix flour, sugar, baking soda, and salt until combined. 
+- Add in butter, one piece at a tome until the mixture resembles moist crumbs.
+- Add egg, egg yolk, vanilla, and buttermilk, stir until light and fluffy.
+- Transfer batter into baking onto a greased piece of aluminium foil or baking paper and spread into an even layer. 
+- Break apart crumb topping into pea sided pieces and spread evenly over batter starting at the edges and moving towards the middle. 
+- Bake until crumbs are golden and a knife comes clean. 
+- Dust with powdered sugar and serve.
+
+---
+Notes/Comments/Suggestions

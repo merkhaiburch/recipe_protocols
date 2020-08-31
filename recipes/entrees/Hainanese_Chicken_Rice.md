@@ -51,8 +51,8 @@ Chicken broth
 
 - Trim extra fat and skin off your chicken thighs and reserve. You will need to render fat from these trimmings for the rice.
 - Sprinkle salt over chicken and rub it in. Let sit at room temp while you prep other things.Note: You can do everything from this point on right in the pot that you will use to cook the rice and chicken, and it’ll be a one pot meal. But I prefer to sauté the rice in a wok and then transfer.
-- In a wok, or the pot you’re using to cook the rice in, add just a tiny bit of vegetable oil along with chicken fat/skin trimmings. Saute over medium-low heat to render chicken fat until the trimmings are browned. You want to have about 2 Tbsp of fat total, so if there is too much, remove some. If there isn’t enough, add a little more vegetable oil to supplement. Remove chicken trimmings, leaving the fat in the pot.
-- In the same pot/wok you used to render chicken fat, add chopped ginger and garlic and saute over medium high heat until garlic starts to turn golden.
+- In a wok, or the pot you’re using to cook the rice in, add just a tiny bit of vegetable oil along with chicken fat/skin trimmings. Sauté over medium-low heat to render chicken fat until the trimmings are browned. You want to have about 2 Tbsp of fat total, so if there is too much, remove some. If there isn’t enough, add a little more vegetable oil to supplement. Remove chicken trimmings, leaving the fat in the pot.
+- In the same pot/wok you used to render chicken fat, add chopped ginger and garlic and sauté over medium high heat until garlic starts to turn golden.
 - Add raw, rinsed rice and salt, and turn heat up to high, tossing rice for about 2 minutes until hot throughout and dry.
 - Transfer rice into a rice cooker or a heavy bottomed pot (unless you’re already using that pot). Note: A rice cooker is more convenient, because it will turn itself off, but I personally prefer using a pot so I can use low heat to gently cook the chicken so it will be less likely to overcook.  
 - Add chicken stock to the rice and and stir to mix. Place chicken in one layer on top of rice.
@@ -83,3 +83,4 @@ To Make Chicken Stock:
 ---
 Notes/Comments/Suggestions
 - Can freeze extra dipping sauce
+- Chicken flavorless, would recommend next time marinading chicken in the dipping sauce and then pan frying it or baking it until crispy.

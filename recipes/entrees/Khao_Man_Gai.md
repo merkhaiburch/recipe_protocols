@@ -44,3 +44,4 @@ Serve
 
 ---
 Notes/Comments/Suggestions
+- Chicken flavorless, would recommend next time marinading chicken in the dipping sauce and then pan frying it or baking it until crispy.

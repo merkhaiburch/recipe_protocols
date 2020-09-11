@@ -1,0 +1,42 @@
+# Canome Bua Roy
+
+Taken from
+Merritt's Cookbook
+
+---
+## Specifications
+- Total time: 90 mins
+- Prep time: 40 mins
+- Yield: unknown
+
+---
+## Ingredients
+
+For dough balls
+- 2 cups sweet rice flour (also called glutinous rice flour)
+- 1 2/3 cup water
+- optional: food colouring for balls
+
+For sauce
+- 1 can of coconut cream (or coconut milk)
+- 1 jar of coconut gel
+- 2/3 cup sugar (white or brown)
+- pinch of salt
+- 1 cup juice from coconut gel
+- optional: taro, pumpkin, purple sweet potato to garnish/add colour
+
+---
+## Directions
+
+- Mix rice flour and water together until you get a sticky paste. Optionally add food colouring to subsets of dough to add a nice pop of colour.
+- Roll balls into teaspoon sized pieces and roll in rice flour so that they do not stick together.
+- Bring a small saucepan filled with water up to a rolling boil.
+- Drop rolled rice-flour balls into the boiling water and boil until the rice balls float to the surface. Remove from water and place into an ice bath.
+- In another saucepan add coconut gel, coconut cream, sugar, pinch of salt, and the juice from the coconut gel. Bring up to a simmer and season to taste.
+- Let everything cool to room temperature and then put in refrigerator.
+- Combine ~1/4 cup cooked rice balls to 1 cup of sweet sauce and serve cold.
+
+---
+Notes/Comments/Suggestions
+- Choking hazard, eat carefully.
+- The rice-balls are relatively flavourless, consider substituting water for coconut milk or coconut cream.

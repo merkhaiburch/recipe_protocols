@@ -1,0 +1,42 @@
+# Three Sisters Bowl
+
+Taken from
+[Three Sisters Bowl With Hominy, Beans and Squash Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1020565-three-sisters-bowl-with-hominy-beans-and-squash)
+
+---
+## Specifications
+- Total time: 2 hour
+- Prep time: 2 hour
+- Bake time: NA
+- Yield: 4 servings
+- Oven temp: 425 F
+
+---
+## Ingredients
+
+- 1/2 cup dried hominy
+- 1/2 cup dried brown tepary beans
+- 1 small, unpeeled acorn squash (about 1 1/4 pounds), halved, seeds and membranes scraped away, then cut into 1-inch chunks
+- 3 tablespoons sunflower oil
+- Coarse sea salt
+-  1 small yellow onion, halved and thinly sliced
+- 1 tablespoon New Mexico Hatch chile powder or any mild smoked red chile powder
+- 2 teaspoons chopped fresh sage
+- Smoked sea salt
+- 1/2 cup chopped dark greens, such as dandelion greens, kale or spinach
+
+---
+## Directions
+
+Night Before:
+- Place the hominy and tepary beans in separate medium bowls. Add enough water to each to cover the beans by 4 inches, and soak overnight at room temperature.
+
+Day of preparation:
+- About 3 hours before serving, drain the hominy and the beans and place them in separate 3- to 4-quart pots. Add enough cool water to cover the hominy and tepary beans by 4 inches. Set each over high heat, bring to a boil, then lower the heat and simmer gently, stirring occasionally and skimming any foam that rises to the surface, until tender, about 1 1/2 to 2 hours. Reserve 2/3 cup of the cooking liquid from each type of beans (for 1 1/3 cups liquid). Drain the hominy and the beans and set aside.
+- Meanwhile, prepare the squash: Heat the oven to 425 degrees. On a parchment-lined rimmed baking sheet, toss the squash with 1 tablespoon oil and a pinch of coarse sea salt. Arrange the squash in an even layer and roast until golden and very tender, stirring halfway through, 35 to 45 minutes.
+- In a large skillet, heat the remaining 2 tablespoons oil over medium-high. Add the onion, chile powder, sage and a generous pinch of smoked salt and cook, stirring occasionally, until the onions are tender, 5 to 8 minutes. Add the reserved 1 1/3 cups cooking liquid and bring to a simmer.
+- Add the cooked hominy and beans to the skillet, then stir in the roasted squash and greens. Season to taste with coarse sea salt and serve.
+
+---
+Notes/Comments/Suggestions
+

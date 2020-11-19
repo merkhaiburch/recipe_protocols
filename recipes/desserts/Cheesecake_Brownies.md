@@ -1,0 +1,58 @@
+# Cheesecake Brownies
+
+Taken from
+[Cheesecake Brownies - Dinner at the Zoo](https://www.dinneratthezoo.com/cheesecake-brownies/)
+
+---
+## Specifications
+- Total time: 45 mins
+- Prep time: 15 mins
+- Bake time: 30 mins
+- Yield: 1 sheet of brownies
+- Oven temp: 350 F
+
+---
+## Ingredients
+
+For the brownie layer
+- 1/2 cup unsalted butter cut into cubes
+- 1 3/4 cups semisweet chocolate chips divided use, do not use Nestle
+- 1/2 cup granulated sugar
+- 2 eggs
+- 1 1/2 teaspoons vanilla extract
+- 3/4 cup all purpose flour
+- 3 tablespoons cocoa powder
+- 1/4 teaspoon salt
+- cooking spray
+
+For the cheesecake layer
+- 8 ounces cream cheese softened
+- 1/4 cup granulated sugar
+- 1 egg
+- 1/4 teaspoon vanilla
+
+---
+## Directions
+
+
+For the brownie:
+- Preheat the oven to 350 degrees F. Line an 8 or 9 inch square pan with parchment paper, leaving an overhang of parchment on both sides. Coat the parchment lined pan with cooking spray.
+- Place the butter and 1 1/3 cups of chocolate chips into a large bowl. Microwave in 30 second increments until just melted. Stir until smooth.
+- Let the chocolate mixture cool for 5 minutes. Whisk in the sugar, then whisk in the eggs, one by one. Finally, whisk in the vanilla extract.
+- Add the flour, cocoa powder and salt to the bowl. Stir gently until just combined. 
+- Reserve 1/4 of of the brownie batter in a separate bowl. 
+- Fold the remaining chocolate chips into the larger amount of the brownie batter.
+- Spread the larger amount of batter evenly into the prepared pan.
+
+For the cheesecake filling: 
+- Place the cream cheese and sugar in a bowl. Beat with a mixer for 2-3 minutes or until smooth and creamy. Add the egg and vanilla extract, then beat until smooth.
+- Pour the cheesecake mixture over the brownie batter in the pan.
+- Add 1 tablespoon of very hot water to the reserved brownie batter. Stir until smooth.
+- Dollop the brownie batter over the cheesecake. Use a skewer or knife to swirl the two batters together.
+- Bake for 30-35 minutes or until a toothpick inserted into the center of the brownies comes out clean or with just a few crumbs attached.
+- Cool the brownies completely.
+- Use the parchment overhang to lift the brownies out of the pan. Cut into squares, then serve.
+
+---
+Notes/Comments/Suggestions
+- From the website: Nestle chocolate chips do not melt smoothly and will not work in these brownies. I recommend using Guittard or Ghirardelli chocolate chips.

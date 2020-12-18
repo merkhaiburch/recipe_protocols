@@ -19,29 +19,42 @@
 Pizza
 - [Detroit Style Pizza](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/pizza/Brandons_Detroit_Style_Pizza.md)
 
+Party mix
+
+
 Fruit cake
+- brandy
+- Brandon's trade secrets
 
 
 Ginger cookies
 - [White Chocolate Dipped Ginger Cookies](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/desserts/White_Chocolate_Dipped_Ginger_Cookies.md)
 
 Fruit cake cookies
-
+- 
 
 Stock
+- 3 onions
+- celery
+- carrots
+- garlic
+- chicken wings
+- oxtail, beef shank, bony cheap beef
+- tomato paste
 
 
 Christmas prime rib
 
 
 Cream puffs
-
+- Brandon's trade secrets
 
 Chilie Colorado
 - [Chile con carne Colorado style burritos](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/entrees/chile_con_carne_colorado_style_burritos.md)
 
 Au gratin & home fries
-
+- Brandon's trade secrets
+- 1 box au gratin potatos
 
 
 ---
@@ -49,6 +62,15 @@ Au gratin & home fries
 ---
 
 Non-perishable
-
+- tomato paste
+- brandy
+- 1 box au gratin potatos
 
 Perishable
+- 3 onions
+- celery
+- carrots
+- garlic
+- chicken wings
+- oxtail, beef shank, bony cheap beef
+- walnuts

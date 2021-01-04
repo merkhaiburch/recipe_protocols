@@ -34,6 +34,11 @@
       "key": "da77d2d4797ec89a6342",
       "color": "#3FD941",
       "name": "drinks"
+    },
+    {
+      "key": "fc91431ad91860723229",
+      "color": "#3FD941",
+      "name": "other"
     }
   ],
   "version": "1.0"

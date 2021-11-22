@@ -170,27 +170,35 @@ What did you like?
 Non-perishables or freezable
 - 13 pound turkey
 - 1 large can cream of mushroom soup
-- 1 box French fried onions
-- 1 bottle Martinelli's sparking cider
 - 1 can cranberry sauce
-- 2 boxes of butter
+- 1 box French fried onions
+- 1 bag frozen green beans
+- 1 bottle Martinelli's sparking cider
+- 3 boxes of butter
 - 2 blocks Irish butter
 - Kosher Salt
-- 3 boxes of Stove Top stuffing mix
+- 1 boxes of Stove Top stuffing mix
 - 1 can sweet corn
 - pasta shells or elbows
 - 1 aluminium pan for turkey
-- 3 aluminium pans for mac + stuffing + three sisters
+- 3 aluminium pans for mac + stuffing + mashed potatoes
+- aluminium foil
+- ziplock bags or airtight bags
 - 1 bag flour
 - 1 ½ cup chardonnay wine
 - Panko breadcrumbs
 - 1 ½ tsp mustard
 - vegetable shortening
-- dark corn syrup
+- brown sugar
+- corn syrup
+- 1 bag pecans
 - 2 bags frozen green beans (or fresh)
 - cornstarch
 - 1 can pumpkin puree
-- 1 can evaporated milk
+- 1 can evaporated milk (pie)
+- tomato paste
+- garlic powder
+- onion powder
 
 Perishables
 - 3 garlic bulbs
@@ -199,6 +207,7 @@ Perishables
 - 4 onions
 - 2 Packages mushrooms
 - 1 mini-milk (12 fl oz) full milk
+- heavy cream (for potatoes)
 - Whole bag shredded kraft cheddar cheese
 - 1 block sharp cheddar cheese
 - 1 block mozzarella cheese

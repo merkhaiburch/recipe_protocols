@@ -4,7 +4,7 @@
 ## Summary
 ---
 
-Cooking the entire week before Thanksgiving so there is no cooking the day-of.
+Cooking the entire week before Thanksgiving so there is limited cooking the day-of.
 
 
 ### Menu
@@ -27,9 +27,10 @@ Cooking the entire week before Thanksgiving so there is no cooking the day-of.
 ---
 
 Monday
-- 4:30-5:30 break down turkey
+- break down turkey
 - season bird overnight
-- prep stock
+- roast turkey stuff 
+- prep and make stock overnight
 
 
 Tuesday
@@ -42,7 +43,6 @@ Tuesday
 
 
 Wednesday
-- roast turkey stuff 
 - prep bread to rest overnight
 - make mashed potatoes
 - make gravy
@@ -61,25 +61,15 @@ Thursday
 ## Recipe links/ingredients
 ---
 
-### Pumpkin Pie
-- Follow directions on can. 
-- Pie crust is from pecan pie.
-- Follow pecan pie instructions for pre-baking pie crusts.
-
-
-### Pecan Pie
-- [Pecan Pie recipe](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/desserts/Pecan_Pie.md)
-
-
-### Cloverleaf Rolls
-- [No Knead Cloverleaf Rolls recipe](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/breads/No_knead_Cloverleaf_Rolls.md)
-- Watch proofing on bread, it's easy to over-proof.
-- Use leftover thyme, rosemary, and sage with melted butter to brush over buns once near finish.
-- Only do half this recipe
-
-
 ### Turkey
-- [Chef Steps Video for Turkey Butchery](https://www.youtube.com/watch?v=R-oONZgDT0M&ab_channel=ChefSteps)
+- [Turkey Butchery: How to Separate Breasts & Thighs](https://www.youtube.com/watch?v=TOmyuvkBftE&ab_channel=ChefSteps)
+- 14.5 pound turkey
+- box sage
+- box rosemary
+- box thyme
+- box bay leaves
+- salt
+- sugar
 
 
 ### Turkey Stock
@@ -91,6 +81,84 @@ Thursday
 - tomato paste
 - mushrooms
 - water (duh)
+
+
+### Pie crusts
+Pie Crust Ingredients (makes 2 pie crusts):
+- 445 grams all-purpose flour (3 cups)
+- 2 teaspoons salt
+- 1/2 teaspoons sugar
+- 180 grams vegetable shortening or lard (3/4 cup)
+- 3/4 cup butter, cut into pieces
+- 1 egg, lightly beaten
+- 1 tablespoon distilled white vinegar
+- 5 tablespoons cold water
+
+Directions
+- Mix the flour, salt, and sugar in a bowl. 
+- Add the vegetable shortening and butter. 
+- Mix egg, vinegar, and cold water. Put in freezer to cool.
+- Work the butter into the flour using a dough cutter until the mixture resembles tiny pebbles.
+- Add cold liquids to dough mixture. Stir until just combined. 
+- Divide the dough in half and chill (at least one hour). 
+- Roll out pie crusts between two pieces of saran wrap and place into pie pan. Have some crust overlap over the sides of the baking dish (it will shrink while baking). 
+- Add a piece of rounded parchment paper to the bottom of the pie dish and fill pie with pie weights. 
+- Bake pie for around 30 minutes until the bottom no longer looks soggy. 
+
+
+### Pumpkin Pie
+- Follow directions on can. 
+
+
+### Pecan Pie
+- [Pecan Pie recipe](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/desserts/Pecan_Pie.md)
+
+Filling:
+- 1 cup granulated sugar
+- 3 tablespoons brown sugar
+- 1/2 teaspoons salt
+- 1 cup corn syrup (light or dark)
+- 1/3 cup melted salted butter
+- 1 teaspoon vanilla
+- 3 whole eggs beaten
+- 1 cup (heaping) chopped pecans
+
+Directions:
+- Mix the granulated sugar, brown sugar, salt, corn syrup, butter, vanilla and eggs together in a bowl.
+- Preheat the oven to 350 degrees F.  
+- Pour the pecans in the bottom of the prebaked pie shell. 
+- Pour the syrup mixture over the top. Cover the top and crust lightly/gently with foil.
+- Bake the pie for 30 minutes. Remove the foil, and then continue baking for 20 minutes, being careful not to burn the crust or pecans. 
+- The pie should not be overly jiggly when you remove it from the oven (though it will jiggle a bit). If it shakes a lot, cover with foil and bake for an additional 20 minute or until set. Required baking time seems to vary widely with this recipe. Sometimes it takes 50 minutes, sometimes it takes 75!
+
+
+### Cloverleaf Rolls
+- [No Knead Cloverleaf Rolls recipe](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/breads/No_knead_Cloverleaf_Rolls.md)
+- Watch proofing on bread, it's easy to over-proof.
+- Use leftover thyme, rosemary, and sage with melted butter to brush over buns once near finish.
+
+Ingredients (half amount)
+- 1 1/2 tablespoons granulated sugar
+- 1/2 cup warm water (110 degrees to 115 degrees)
+- 1 1/8 teaspoons active dry yeast (one 1/4-ounce packet)
+- 1 1/2 cups all-purpose flour (spooned and leveled), divided
+- 3/4 teaspoons fine salt
+- 1/2 large egg
+- 1 1/2 tablespoons unsalted butter, melted and cooled, plus more for brushing
+- Cooking spray
+- Coarse salt
+
+Directions:
+- In a large bowl, combine sugar and water. Sprinkle yeast on top and let sit until foamy, 5 minutes. 
+- Add 1 cup flour and, using a mixer, beat on medium until smooth, 2 minutes. 
+- Add fine salt, egg, and butter and beat until combined. Add remaining 2 cups flour and, with a wooden spoon, mix until just combined. 
+- Lightly coat a large bowl with cooking spray. Transfer dough to bowl, lightly coat with cooking spray, and loosely cover with plastic wrap. Refrigerate overnight (or up to 2 days). Dough will double in size.
+- Divide into 13-14 equal pieces (1 ounce each). Lightly coat 6 standard muffin cups and your hands with cooking spray. Roll each dough piece into a smooth ball and place 3 balls in each cup. 
+- Liberally coat with cooking spray and loosely cover with plastic wrap. Let rise in a warm, draft-free place until doubled, 45 to 90 minutes.
+- Preheat oven to 375 degrees. Bake rolls until puffed and deep golden, 15 to 20 minutes. Brush with melted butter and sprinkle with coarse salt; serve warm.
+
+
+### Sweet potatoes
 
 
 ### Gravy
@@ -115,16 +183,6 @@ Thursday
 - Worcestershire sauce
 - 1 slice of American cheese
 - panko breadcrumbs for topping
-
-
-### Turkey
-- 13 pound turkey
-- box sage
-- box rosemary
-- box thyme
-- box bay leaves
-- salt
-- sugar
 
 
 ### Mashed Potatoes

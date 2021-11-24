@@ -21,6 +21,7 @@ Cooking the entire week before Thanksgiving so there is limited cooking the day-
 - Cloverleaf rolls
 - Green bean casserole
 - Rice
+- Cranberry sauce
 
 
 ## Schedule
@@ -43,11 +44,11 @@ Tuesday
 
 
 Wednesday
-- prep bread to rest overnight
-- make mashed potatoes
-- make gravy
 - make pecan pie
 - make green bean casserole
+- make mashed potatoes
+- make gravy
+- prep bread to rest overnight
 
 
 Thursday
@@ -72,6 +73,7 @@ Thursday
 - sugar
 
 
+---
 ### Turkey Stock
 - turkey remnants from package
 - onion
@@ -83,6 +85,7 @@ Thursday
 - water (duh)
 
 
+---
 ### Pie crusts
 Pie Crust Ingredients (makes 2 pie crusts):
 - 445 grams all-purpose flour (3 cups)
@@ -106,10 +109,12 @@ Directions
 - Bake pie for around 30 minutes until the bottom no longer looks soggy. 
 
 
+---
 ### Pumpkin Pie
-- Follow directions on can. 
+- Follow directions on can, but pre-bake pie shell.
 
 
+---
 ### Pecan Pie
 - [Pecan Pie recipe](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/desserts/Pecan_Pie.md)
 
@@ -132,6 +137,7 @@ Directions:
 - The pie should not be overly jiggly when you remove it from the oven (though it will jiggle a bit). If it shakes a lot, cover with foil and bake for an additional 20 minute or until set. Required baking time seems to vary widely with this recipe. Sometimes it takes 50 minutes, sometimes it takes 75!
 
 
+---
 ### Cloverleaf Rolls
 - [No Knead Cloverleaf Rolls recipe](https://github.com/merrittburch/recipe_protocols/blob/master/recipes/breads/No_knead_Cloverleaf_Rolls.md)
 - Watch proofing on bread, it's easy to over-proof.
@@ -158,9 +164,11 @@ Directions:
 - Preheat oven to 375 degrees. Bake rolls until puffed and deep golden, 15 to 20 minutes. Brush with melted butter and sprinkle with coarse salt; serve warm.
 
 
+---
 ### Sweet potatoes
 
 
+---
 ### Gravy
 - turkey stock
 - turkey juices from sous vide process
@@ -170,6 +178,7 @@ Directions:
 - salt
 
 
+---
 ### Corn Mac
 - 2 oz butter
 - 2 oz flour
@@ -181,99 +190,119 @@ Directions:
 - mustard
 - white pepper
 - Worcestershire sauce
-- 1 slice of American cheese
+- 1 slice of American cheese (or leftover evaporated milk from pie)
 - panko breadcrumbs for topping
 
 
+---
 ### Mashed Potatoes
-- 2 sticks of Irish butter cut into 1 inch cubes
+- 1 sticks of Irish butter cut into 1 inch cubes
 - 1 pound of potatoes
 - heavy cream
 - garlic powder
 - onion powder
 
 
+---
 ### Stuffing
 - 1 box stuffing
 - butter
 - water
 
 
+---
 ### Green Bean Casserole
 - 1 bags frozen green beans, thawed
 - 1 large can cream of mushroom soup
 - 1 box French fried onions
 - Soy sauce
+- splash of milk
 - ton of salt
 
 
 ---
-## Modifications for 2021
+## Modifications for 2022
 --- 
 
 What did you like?
-- Purchased a 13 pound turkey. Was a very good size. 
-- 1 can of cranberry sauce.
-- Panko on top of mac and cheese was nice. 
-- We finished early!
-- Taylor's sweet potatoes were fantastic, would be great to incorporate to our meal next year.
-- Good amount of mashed potatoes
-- Timing was great, started at 11:30 AM and we finished early at 2:44 OM. 
+
+
+What was bad?
+
 
 
 ---
 ## Shopping List
 ---
 
-Non-perishables or freezable
+### Non-perishables or freezable
+
+Meat/dairy/frozen:
 - 13 pound turkey
+- 3 boxes of unsalted butter
+- 2 blocks Irish butter
+- 1 bag frozen green beans
+
+Canned:
 - 1 large can cream of mushroom soup
 - 1 can cranberry sauce
 - 1 box French fried onions
-- 1 bag frozen green beans
 - 1 bottle Martinelli's sparking cider
-- 3 boxes of butter
-- 2 blocks Irish butter
+- 1 can sweet corn
+
+Spices:
 - Kosher Salt
 - 1 boxes of Stove Top stuffing mix
-- 1 can sweet corn
-- pasta shells or elbows
-- 1 aluminium pan for turkey
-- 3 aluminium pans for mac + stuffing + mashed potatoes
-- aluminium foil
-- ziplock bags or airtight bags
-- 1 bag flour
-- 1 ½ cup chardonnay wine
-- Panko breadcrumbs
-- 1 ½ tsp mustard
+- Mustard
+- garlic powder
+- onion powder
+- Worcestershire sauce
+
+Baking/pasta:
 - vegetable shortening
 - brown sugar
 - corn syrup
-- 1 bag pecans
-- 2 bags frozen green beans (or fresh)
+- 2 bag pecans
+- 1 bag flour
+- pasta shells or elbows
+- Panko breadcrumbs
 - cornstarch
 - 1 can pumpkin puree
 - 1 can evaporated milk (pie)
-- tomato paste
-- garlic powder
-- onion powder
 
-Perishables
+Kitchen essentials:
+- 1 aluminium pan for turkey
+- 5 aluminium pans (mac, stuffing, mashed potatoes, sweet potatoes, green beans)
+- aluminium foil
+- saran wrap
+- ziplock bags
+
+Alcohol:
+- Chardonnay wine
+
+
+
+
+### Perishables
+
+Vegetables:
 - 3 garlic bulbs
-- Small whole bag of carrots
+- Bag of carrots
 - 1 head of celery
 - 4 onions
 - 2 Packages mushrooms
+- Bay leaves
+- couple leaves sage
+- Parsley
+- Thyme
+- Potatoes
+
+Dairy/eggs:  
 - 1 mini-milk (12 fl oz) full milk
-- heavy cream (for potatoes)
-- Whole bag shredded kraft cheddar cheese
+- heavy cream (for potatoes + pumpkin pie)
+- Whole bag shredded cheddar cheese (not sure what this is for)
 - 1 block sharp cheddar cheese
 - 1 block mozzarella cheese
 - 1 block cheddar cheese
-- ~3 crushed bay leaves
-- couple leaves sage
-- some parsley
-- thyme
-- eggs
-- potatoes
-
+- 12 eggs
+- American cheese (for mac)

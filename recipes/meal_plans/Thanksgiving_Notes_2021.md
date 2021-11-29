@@ -52,11 +52,11 @@ Wednesday
 
 
 Thursday
-- 11:40 AM prep bread
-- 12:00 pm prep stuffing
-- 1:30 PM bake bread
-- 2:20 PM Make rice, cut cranberry sauce, make table
-- 3:00 eat
+- prep bread
+- prep stuffing
+- bake bread
+- Make rice, cut cranberry sauce, make table
+- eat
 
 
 ## Recipe links/ingredients
@@ -216,6 +216,7 @@ Directions:
 - 1 large can cream of mushroom soup
 - 1 box French fried onions
 - Soy sauce
+- splash of fish sauce.
 - splash of milk
 - ton of salt
 
@@ -225,10 +226,15 @@ Directions:
 --- 
 
 What did you like?
+- No/minimal cooking on Thursday was awesome.
 
 
-What was bad?
-
+What was bad or could be changed?
+- Green bean casserole. Tased good but not essential. Could be dropped next year.
+- Could get a slightly larger turkey. Less than 26 pounds but more than 14.5.
+- Less mac and cheese. Went for half a box instead of the recommended 1/3 (just because we can does not mean we should, see 2019 notes).
+- Less potatoes.
+- Less salt in the sweet potato crumble and less orange. Getting the correct orange would help too.
 
 
 ---

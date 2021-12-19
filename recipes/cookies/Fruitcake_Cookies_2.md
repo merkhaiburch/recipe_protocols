@@ -20,7 +20,7 @@ Taken from
 - 57 grams candied cherries, coarsely chopped (2 ounces)
 - 57 grams dried apricots, coarsely chopped (2 ounces)
 - 1 tablespoon honey
-- 2 tablespoons dry sherry
+- 2 tablespoons dry sherry or brandy
 - 1 tablespoon freshly squeezed lemon juice
 - 170 grams chopped pecans (6 ounces)
 - Kosher salt

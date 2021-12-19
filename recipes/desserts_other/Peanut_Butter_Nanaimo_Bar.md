@@ -67,5 +67,5 @@ For the glaze:
 
 ---
 Notes/Comments/Suggestions
-
+- Peanut butter tased like straight on butter, would not make again.
 - It's thought to be native to Nanaimo, British Columbia (hence the name), and it gained widespread popularity in the 1950s. 

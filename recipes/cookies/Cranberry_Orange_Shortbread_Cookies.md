@@ -39,5 +39,7 @@ Taken from
 
 ---
 Notes/Comments/Suggestions
+- Made half of the recipe and it made almost 20 cookies. 
+- Would like to make every year.
 - Store in an airtight container at room temperature for up to 3 days.
 - Store in an airtight container in the refrigerator for up to one week.

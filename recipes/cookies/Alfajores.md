@@ -24,7 +24,7 @@ Taken from
 - 3 large egg yolks
 - 2 teaspoons vanilla extract
 - 350 g (12 oz.) dulce de leche, for filling
-- 1/2 cup unsweetened shredded or desiccated coconut , for rolling
+- 1/2 cup unsweetened shredded or desiccated coconut, for rolling
 
 
 ---

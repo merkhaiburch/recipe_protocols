@@ -34,7 +34,7 @@ Version 2, using whole boxes of things:
 - 1 bag Goldfish (3 cups)
 - 2 bags pretzels (14 cups)
 - 1 box cheese its (10 cups)
-- 27.6 tbsp butter
+- 3 sticks and 4 tbsp butter
 - 1/2 cup Worcestershire sauce
 - 2 1/2 tbsp salt
 - 3 1/2 tsp garlic powder

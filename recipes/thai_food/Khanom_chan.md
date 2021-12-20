@@ -15,7 +15,7 @@ Taken from
 ## Ingredients
 
 - 1/2 cup Rice Flour
-- 1/2  cups Tapioca Starch
+- 1/2  cups Tapioca Starch (blue bag from Erawan/elephant)
 - 1 1/2 cups Arrowroot Starch
 - 2 1/2 cups Sugar
 - 4 cups Coconut Milk 

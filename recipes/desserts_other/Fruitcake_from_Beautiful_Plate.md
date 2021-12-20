@@ -18,10 +18,9 @@ Taken from
 Soaked Fruit Mixture:
 - 200 g dark raisins (1 1/4 cups)
 - 200 g golden raisins (1 1/4 cups)
-- 320 g mixed unsweetened dried fruit, chopped (i.e., peaches, apricots, pears, apples, 2 cups)
-- 160 g dried unsweetened black figs chopped (1 cup)
+- 440 g mixed unsweetened dried fruit, chopped (i.e., peaches, apricots, pears, apples, used sweetened fruit mix, 2 cups)
+- 160 g dried unsweetened black figs chopped (subsitute with dried apricots, pecans, and almonds to same weight, 1 cup)
 - 160 g dried unsweetened tart cherries chopped (1 cup)
-- 120 g dried unsweetened prunes chopped (3/4 cup, might skip, replace with more fruit mix)
 - 180 mL brandy (3/4 cup)
 
 Fruit Cake Ingredients:
@@ -73,4 +72,4 @@ Storing and Aging:
 
 ---
 Notes/Comments/Suggestions
-
+- Was not able to find all ingredients. Made many subsitutuions with pecans, almonds, apricots, and more sweetend fruit mix to get to the same weight as the requested ingredients. We will see how it goes.

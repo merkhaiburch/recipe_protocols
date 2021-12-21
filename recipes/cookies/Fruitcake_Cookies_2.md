@@ -30,6 +30,7 @@ Taken from
 - 1/3 cup light brown sugar, firmly packed
 - 1 extra-large egg
 - 2 2/3 cups all-purpose flour
+- 20 g finely diced crystallized ginger
 
 
 ---
@@ -42,7 +43,7 @@ Fruit Preparation:
 Cookie assembly:
 - In the bowl of an electric mixer fitted with the paddle attachment, cream the butter, cloves, superfine sugar, and brown sugar on medium speed until smooth, about 3 minutes. 
 - With the mixer on low speed, add the egg and mix until incorporated. 
-- With the mixer still on low, slowly add the flour and 1/4 teaspoon salt just until combined. Don't over mix! 
+- With the mixer still on low, slowly add the flour and 1/4 teaspoon salt just until combined. Add ginger.
 - Add the fruits and nuts, including any liquid in the bowl.
 - Divide the dough in half and place each half on the long edge of a 12 by 18-inch piece of parchment or waxed paper. Roll each half into a log, 1 1/2 to 1 3/4-inch thick, making an 18-inch-long roll.
 - Refrigerate the dough for several hours, or until firm.

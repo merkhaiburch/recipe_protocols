@@ -30,7 +30,7 @@ Fruit Cake Ingredients:
 - 1 teaspoon ground ginger
 - 1/4 teaspoon ground nutmeg
 - 1 teaspoon Diamond Crystal kosher salt
-- 1 stick (4 oz; 115 g) unsalted butter softened
+- 1/2 cup unsalted butter, softened (1 stick)
 - 160 g packed light brown sugar (3/4 cup) (Maybe less sugar because there is so much sugar in preserved fruit)
 - 5 large eggs room temperature
 - 1 tablespoon freshly grated lemon zest

@@ -1,7 +1,7 @@
 # 
 
 Taken from
-[Name of link](link_address)
+[Name_of_link](link_address)
 
 ---
 ## Specifications

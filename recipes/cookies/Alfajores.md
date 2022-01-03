@@ -47,4 +47,4 @@ Taken from
 
 ---
 Notes/Comments/Suggestions
-
+- SUPER dry cookies even after adding 1/4 cup milk to dough. Will not make again.

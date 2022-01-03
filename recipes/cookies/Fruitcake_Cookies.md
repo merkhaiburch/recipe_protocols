@@ -47,3 +47,4 @@ Taken from
 ---
 Notes/Comments/Suggestions
 - Will try using chopped prepared fruitcake pieces.
+- Not as good as other recipe.

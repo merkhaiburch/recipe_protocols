@@ -53,4 +53,4 @@ Cookie assembly:
 
 ---
 Notes/Comments/Suggestions
-
+- The best fruitcake cookies by far, will make every year. Use fruitcake mix, leftover slivered almonds, and a mix of leftover raisins. Maybe make half batch next year.

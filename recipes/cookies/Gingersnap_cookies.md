@@ -46,3 +46,4 @@ Taken from
 ---
 Notes/Comments/Suggestions
 - These gingersnaps are big, gingery, and extra extra chewy.
+- Not as good as the white chocolate dipped cookies, will not make this recipe again.

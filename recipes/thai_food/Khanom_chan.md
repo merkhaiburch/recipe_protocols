@@ -56,7 +56,9 @@ Full:
 Notes/Comments/Suggestions
 - Used mung bean flour instead of arrowroot flour and it came out alrght.
 - Use more than 1/3 of a cup for each layer, maybe 1/2 or 3/4 of a cup with the 8 inch round cake pan.
-- 1/3 of a cup with the half recipe made 11 layers total using the cake oan.
+- 1/3 of a cup with the half recipe made 11 layers total using the cake pan.
+- Tried using 1/2 cup rice flour, 1/4 cup tapioca, and 1/2 cup of mung bean flour and it still came out good. 
+- Green and pink layers do not work well together.
 
 
 - https://www.tasteatlas.com/khanom-chan

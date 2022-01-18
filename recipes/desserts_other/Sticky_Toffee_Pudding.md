@@ -40,7 +40,7 @@ Cake
 
 Toffee sauce:
 - In a medium saucepan, combine 1 1/4 cups of the cream with the butter, corn syrup and sugar; bring to a boil. 
-- Cook over moderately low heat, stirring frequently, until a deep amber caramel forms, about 40 minutes. 
+- Cook over moderately low heat, stirring frequently, until a deep amber caramel forms, about 30-40 minutes. The video shows a different color, disregard.
 - Carefully whisk in the remaining 1 1/4 cups of cream. Strain the sauce through a sieve into a bowl.
 
 
@@ -51,7 +51,7 @@ Cake preparation
 - In a small bowl, whisk the flour with the baking powder, baking soda and salt. 
 - In a medium bowl, using an electric mixer, beat the butter with the brown sugar at medium speed until light and fluffy. 
 - Beat in the egg and vanilla, then beat in the date puree. 
-- At low speed, beat in the dry ingredients. Spoon the batter into the ramekins and smooth the tops. 
+- At low speed, beat in the dry ingredients. Spoon the batter into the ramekins and smooth the tops. Roughly 100 grams of mixture per ramekins is right.
 - Bake for 20 minutes, or until a toothpick inserted into the centers comes out clean; let cool slightly.
 
 
@@ -72,4 +72,4 @@ Serving:
 
 ---
 Notes/Comments/Suggestions
-- Website has video tutorial.
+- Potentially use cupcake pan next time or other ramekins? One pudding is too much for one person, half is about right. 

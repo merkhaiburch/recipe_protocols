@@ -1,36 +1,43 @@
 # Chocolate Chip Cookies
 
+
 Taken from
-Arm and Hammer's Box
+[Allrecipes Chocolate Chip Cookies](https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/)
 
 ---
 ## Specifications
 - Total time: 60 mins
 - Prep time: 20 mins
-- Bake time: 7-9 mins
-- Yield: ?
-- Oven temp: 375 F
+- Bake time: 10 mins
+- Yield: 24 cookies
+- Oven temp: 350 F
+
 
 ---
 ## Ingredients
-- 2 1/4 cup flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 cup softened butter
-- 3/4 cup white sugar
-- 3/4 cup brown sugar
-- 1 tsp vanilla
+
+- 1 cup butter, softened
+- 1 cup white sugar
+- 1 cup packed brown sugar
 - 2 eggs
-- 2 cups chocolate chips
+- 2 teaspoons vanilla extract
+- 1 teaspoon baking soda
+- 2 teaspoons hot water
+- 1/2 teaspoon salt
+- 3 cups all-purpose flour
+- 2 cups semisweet chocolate chips (1 small bag)
+- 1 bag additional sweets (optional, ex. butterfinger pieces)
 
 ---
 ## Directions
-- In bowl mix flour, baking soda, and salt
-- In another bowl mix butter, sugar, and vanilla
-- Mix in eggs to wet mixture
-- Combine wet and dry ingredients
-- Stir in chocolate chips
-- Bake at 375 F on an ungreased cookie sheet until golden brown
+
+- Mix together butter and sugars.
+- Add in eggs then vanilla.
+- Dissolve baking soda in hot water and add to batter with salt.
+- Stir in flour, chocolate chips, and additional sweets.
+- Roll into balls and place onto an ungreased pans. 
+- Bake for 10 minutes per batch.
 
 ---
 Notes/Comments/Suggestions
+

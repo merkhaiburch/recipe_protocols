@@ -1,7 +1,7 @@
 # Pecan Tassies
 
 Taken from
-[Pecan Tassies Recipe \| Taste of Home](https://www.tasteofhome.com/recipes/pecan-tassies/)
+[Pecan Tassies Recipe - Taste of Home](https://www.tasteofhome.com/recipes/pecan-tassies/)
 
 ---
 ## Specifications

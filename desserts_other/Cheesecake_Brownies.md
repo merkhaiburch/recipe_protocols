@@ -17,7 +17,7 @@ Taken from
 
 Brownie Base
 - 1 cup unsalted butter  melted, (226g)
-- 1 1/3 cups semis sweet chocolate chips
+- 1 cup then 1/3 cups mixed semi sweet and milk chocolate chips
 - 3/4  cup  cocoa powder
 - 200g granulated sugar (1 cup)
 - 200g brown sugar (1 cup)
@@ -30,7 +30,7 @@ Brownie Base
 - 1 tbsp water (15mL hot, plus more if needed)
 
 Cheesecake Topping
-- 16 oz cream cheese room temperature
+- 16 oz cream cheese room temperature (2 sticks)
 - 1/2 cup sugar
 - 1 tbsp vanilla extract 15mL
 - 1 pinch salt
@@ -41,10 +41,10 @@ Cheesecake Topping
 ## Directions
 
 Brownies
-- Add the melted butter and one cup of chocolate chips to a large bowl. Microwave on short bursts at low power until mostly melted then stir together until smooth.
+- Add the melted butter and ONE cup of chocolate chips to a large bowl. Microwave on short bursts at low power until mostly melted then stir together until smooth.
 - Immediately dump in the cocoa powder and salt then mix until fully incorporated.
 - Mix in the white and brown sugars then add eggs and yolk, vanilla and coffee then mix until smooth.
-- Drop in the flour and mix until almost combined then fold in the remaining chocolate chips.
+- Drop in the flour and mix until almost combined then fold in the remaining 1/3 cup chocolate chips.
 - Add to a parchment paper lined 8x8 baking tray.
 
 Cheesecake
@@ -59,3 +59,5 @@ Cheesecake
 ---
 Notes/Comments/Suggestions
 
+- Brownies very dense. Taste good but the world is used to cake brownies.
+- Knife inserted into brownies does not come out clean. Look for cheesecake to pull away and start to turn brown.

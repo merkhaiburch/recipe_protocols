@@ -15,7 +15,7 @@
 - [Tocabe Marketplace (Mix of everything)](https://shoptocabe.com/) 
 - [Vally Mills Store (blue corn, juniper)](https://valleymillscorn.com/)
 - [Navajo Pride: Navajo (tea, sumac, corn, juniper)](https://napi.navajopride.com/)
-- [Sweetgradd Trading Company: Winnebago Tribe of Nebraska (Mix of everything)](https://sweetgrasstradingco.com/)
+- [Sweetgrass Trading Company: Winnebago Tribe of Nebraska (Mix of everything)](https://sweetgrasstradingco.com/)
 - [Bow & Arrow Brand: Ute Mountain Ute Tribe (Yellow, Wite, and Blue Corn)](https://bowandarrowbrand.com/)
 - [Red Lake Nation: Red Lake Band of Chippewa Indians (wild rice, maple syrup, tea, and more)](https://redlakenationfoods.com/)
 - [Native Harvest: Ojibwe White Earth Band (wild rice, jellies, coffee, maple products, and more)](https://redlakenationfoods.com/)
@@ -41,7 +41,7 @@
 
 ---
 ## Cool organizations:
-- [INDIGENOUS FOOD AND AGRICULTURE INITIATIVE](https://indigenousfoodandag.com/)
+- [Indigenous Food and Agriculture Initiative](https://indigenousfoodandag.com/)
 
 
 ---

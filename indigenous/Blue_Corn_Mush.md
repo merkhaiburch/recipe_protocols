@@ -33,8 +33,9 @@ Taken from:
 
 ---
 Notes/Comments/Suggestions
+- Juniper ash is optional. It makes the dish taste slightly smoky, if you do not like that, do not add it.
 
-[Vally Mills Blue Corn Mush](https://valleymillscorn.com/recipes/)
+[Alternate recipe: Vally Mills Blue Corn Mush](https://valleymillscorn.com/recipes/)
 - 1 cup cold water
 - 1 cup boiling water
 - 1 tsp juniper ash

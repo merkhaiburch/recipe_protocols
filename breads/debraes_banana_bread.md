@@ -14,7 +14,7 @@ Debrae
 ---
 ## Ingredients
 
-- 1 1/3 cup flout
+- 1 1/3 cup flour
 - 2 1/2 tsp baking powder
 - 1/2 tsp salt
 - 1/3 cup oil or butter
@@ -38,3 +38,5 @@ Optional Additions:
 - 1 cup walnuts
 - 1 cup raisins
 - 1 cup sunflower seeds
+
+- Tried this with baking soda instead of powder and it came out okay. The loaf turned brown. 

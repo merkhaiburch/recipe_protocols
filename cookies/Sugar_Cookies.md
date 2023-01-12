@@ -37,4 +37,4 @@ Taken from:
 
 ---
 Notes/Comments/Suggestions
-
+- See the Sugar Cookie Icing recipe for frosting that pairs well with these cookies.

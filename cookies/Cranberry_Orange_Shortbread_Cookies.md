@@ -44,3 +44,4 @@ Notes/Comments/Suggestions
 - Would like to make every year, the whole recipe and not just half.
 - Store in an airtight container at room temperature for up to 3 days.
 - Store in an airtight container in the refrigerator for up to one week.
+- Alternate recipe: https://www.tasteofhome.com/recipes/cranberry-slices/

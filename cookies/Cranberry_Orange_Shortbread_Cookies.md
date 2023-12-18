@@ -16,7 +16,7 @@ Taken from
 ## Ingredients
 
 - 1 cup unsalted butter, softened to room temperature
-- 1/2 cup confectioners' sugar 
+- 3/4 cup confectioners' sugar 
 - 1 teaspoon vanilla extract
 - 1 tablespoon orange zest (zest from 2 oranges)
 - 1/4 teaspoon salt
@@ -40,8 +40,7 @@ Taken from
 ---
 Notes/Comments/Suggestions
 - Made half of the recipe and it made around 20 cookies. 
-- Needs more sugar!
-- Would like to make every year, the whole recipe and not just half.
+- Needs more sugar! Upped the recipie from 1/2 cup to 3/4 cup.
 - Store in an airtight container at room temperature for up to 3 days.
 - Store in an airtight container in the refrigerator for up to one week.
 - Alternate recipe: https://www.tasteofhome.com/recipes/cranberry-slices/

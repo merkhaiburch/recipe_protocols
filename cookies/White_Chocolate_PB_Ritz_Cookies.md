@@ -17,6 +17,7 @@ Taken from
 - 1⁄2 cup creamy peanut butter
 - 8 ounces white almond bark
 - Christmas sprinkles
+- Mini M&Ms
 
 
 ---
@@ -33,4 +34,6 @@ Taken from
 ---
 Notes/Comments/Suggestions
 
-- Could also use Nutella for filling.
+- Could also use Nutella or almond butter for filling.
+- Get a variety pack of cookies and pretzels and dip to use up remaining almond bark.
+- 1 package of almond bark was able to cover around 15 Ritz cookies, 4 nutter butters, 4 chips ahoy cookies, 4 oreos, and 15 pretzel sticks.

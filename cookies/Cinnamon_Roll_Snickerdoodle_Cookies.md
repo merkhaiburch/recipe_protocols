@@ -16,12 +16,12 @@ Taken from:
 ## Ingredients
 
 For the Brown Butter Snickerdoodles:
-- 1 cup + 1 tbsp salted butter 240 grams – you'll want 191 grams left after browning (13.5 tbsp). See note below.
-- 3/4 cup granulated sugar 156 grams
-- 3/4 cup dark brown sugar, packed 163 grams
+- 2 sticks + 1 tbsp salted butter (240 grams)
+- 156 grams granulated sugar 
+- 163 grams dark brown sugar, packed 
 - 2 large eggs, at room temperature
 - 1 and 1/2 tsp vanilla
-- 3 cups all-purpose flour, spooned & leveled 390 grams
+- 390 grams all-purpose flour
 - 1 tsp baking soda
 - 1 tsp baking powder
 - 1/2 tsp salt

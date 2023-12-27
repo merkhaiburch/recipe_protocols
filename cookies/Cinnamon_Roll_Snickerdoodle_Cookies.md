@@ -5,7 +5,7 @@ Taken from:
 
 ---
 ## Specifications
-- Total time: 60 mins
+- Total time: 2 hours and 30 mins
 - Prep time: 30 mins
 - Bake/Cook time: 11 mins
 - Yield: 16 cookies
@@ -32,8 +32,8 @@ For the Brown Butter Snickerdoodles:
 
 For the Cinnamon Roll Filling:
 - 6 tbsp salted butter, softened at room temperature
-- 1/3 cup + 2 and 1/2 tbsp dark brown sugar, packed
-- 2 and 1/4 tsp all-purpose flour
+- 128 grams dark brown sugar, packed
+- 1 tbsp all-purpose flour  (do a little less)
 - 1 tbsp + 1/4 tsp cinnamon
 - 1/4 tsp + 1/8 tsp nutmeg
 - 1/2 tsp vanilla extract
@@ -56,7 +56,7 @@ For the Vanilla Glaze:
 
 Dough:
 - Add butter to a medium saucepan over medium heat. Melt the butter, stirring occasionally. 
-- Once it's melted, turn the heat to medium-low, and continue cooking the butter, stirring frequently. The butter will get foamy and bubbly, then turn a deep golden shade with a nutty, caramely aroma (4-6 minutes).
+- Once it's melted, turn the heat to medium-low, and continue cooking the butter, stirring frequently. The butter will get foamy and bubbly, then turn a deep golden shade with a nutty, caramely aroma (7-8 minutes).
 - Pour into a large bowl, making sure to scrape in all the brown bits from the bottom of the pan, and allow to cool in a heat-safe bowl for 40 to 45 minutes in the freezer.
 - Add the cooled brown butter to a large bowl and whisk in the sugars. 
 - Add the eggs and vanilla, and whisk until smooth and combined.
@@ -81,7 +81,7 @@ Glaze:
 - Whisk together all glaze ingredients and drizzle over the semi-warm cookies (out of the oven about 15 minutes).
 
 Serve + Store: 
-- Store cooled cookies in an airtight container at room temperature for 4-5 days or in the fridge for 6-7.
+- Store cooled cookies in an airtight container at room temperature for 4-5 days or in the fridge for 6-7 days.
 
 
 
